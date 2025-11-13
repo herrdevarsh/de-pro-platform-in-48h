@@ -1,0 +1,5 @@
+name: "de_platform"
+version: "1.0"
+profile: "de_platform"
+model-paths: ["models"]
+snapshot-paths: ["models/snapshots"]

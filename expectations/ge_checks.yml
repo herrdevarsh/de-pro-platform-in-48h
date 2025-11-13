@@ -1,0 +1,9 @@
+tables:
+  - name: fct_orders
+    checks:
+      - not_null: [order_id, customer_id, total_amount_eur]
+      - values_in_set:
+          column: currency
+          allowed: ["EUR"]
+      - positive_values:
+          column: total_amount_eur

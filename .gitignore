@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+venv/
+.venv/
+lake/**/*.parquet
+airflow/logs/
+dbt_project/target/
+dbt_project/.user.yml
+.duckdb
+warehouse.duckdb
+*.db
+*.parquet

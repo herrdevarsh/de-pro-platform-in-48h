@@ -1,0 +1,15 @@
+version: 2
+models:
+  - name: dim_customers_scd2
+    columns:
+      - name: customer_id
+        tests: [unique, not_null]
+  - name: fct_orders
+    columns:
+      - name: order_id
+        tests: [unique, not_null]
+      - name: customer_id
+        tests:
+          - relationships:
+              to: ref('dim_customers_scd2')
+              field: customer_id
