@@ -28,3 +28,5 @@ Redpanda Console: http://localhost:8081
 - Streaming land to Parquet with date partitions.
 - Incremental warehouse model by `updated_at`, plus SCD2 snapshot.
 - Orchestrated daily with Airflow; tested with dbt.
+
+Small doc tweak to create PR diff.
