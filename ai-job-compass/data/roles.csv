@@ -1,0 +1,12 @@
+role_id,name,ai_risk_score
+1,Backend Developer,0.40
+2,Frontend Developer,0.45
+3,Full-Stack Developer,0.42
+4,Data Analyst,0.30
+5,BI Engineer,0.35
+6,Data Engineer,0.32
+7,ML Engineer,0.25
+8,MLOps Engineer,0.22
+9,Product Analyst,0.38
+10,QA Automation Engineer,0.50
+11,Cloud Engineer,0.33

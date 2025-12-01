@@ -1,0 +1,331 @@
+job_id,role_id,title,location,salary_low,salary_high,posted_at
+1,1,Python Backend Developer,Frankfurt,53899,84427,2025-11-28
+2,1,Python Backend Developer,Munich,54500,91137,2025-10-18
+3,1,Backend Engineer,Hamburg,52602,87583,2025-11-21
+4,1,Backend Developer,Hamburg,56654,90786,2025-11-18
+5,1,Python Backend Developer,Munich,58134,90261,2025-10-14
+6,1,Python Backend Developer,Amsterdam,59644,82224,2025-09-08
+7,1,Backend Developer,Frankfurt,55329,92106,2025-10-16
+8,1,Backend Developer,Berlin,58715,77173,2025-09-13
+9,1,Backend Developer,Remote,52264,88144,2025-10-23
+10,1,Python Backend Developer,Remote,56485,76623,2025-11-03
+11,1,Backend Engineer,Amsterdam,57030,88397,2025-11-08
+12,1,Python Backend Developer,Hamburg,56247,83429,2025-09-18
+13,1,Backend Developer,Amsterdam,57164,81193,2025-09-12
+14,1,Backend Engineer,Remote,52781,83674,2025-09-11
+15,1,Backend Developer,London,49632,84373,2025-11-23
+16,1,Python Backend Developer,Berlin,59908,90516,2025-11-12
+17,1,Backend Developer,Berlin,58968,92490,2025-09-06
+18,1,Backend Engineer,Remote,51751,87123,2025-09-29
+19,1,Backend Developer,London,57597,83411,2025-10-17
+20,1,Python Backend Developer,London,60184,92741,2025-09-16
+21,1,Python Backend Developer,London,52350,83282,2025-09-05
+22,1,Backend Engineer,Berlin,60119,87178,2025-10-09
+23,1,Backend Engineer,Berlin,60032,78844,2025-09-02
+24,1,Python Backend Developer,Frankfurt,57584,77724,2025-10-04
+25,1,Python Backend Developer,London,50660,82019,2025-10-09
+26,1,Backend Developer,Munich,50674,86843,2025-11-16
+27,1,Backend Developer,London,51005,88145,2025-10-31
+28,1,Backend Engineer,Amsterdam,54918,84326,2025-10-05
+29,1,Backend Engineer,Hamburg,52150,88419,2025-11-28
+30,1,Python Backend Developer,Frankfurt,53254,77929,2025-09-07
+31,2,Frontend Engineer,Berlin,49448,74572,2025-09-16
+32,2,Frontend Engineer,Frankfurt,46004,85237,2025-11-14
+33,2,Frontend Engineer,Berlin,46177,87570,2025-09-17
+34,2,Frontend Engineer,Hamburg,46796,86369,2025-09-15
+35,2,React Frontend Developer,Frankfurt,48976,87003,2025-11-26
+36,2,React Frontend Developer,Hamburg,51516,80378,2025-10-28
+37,2,Frontend Developer,Hamburg,48740,75165,2025-11-29
+38,2,Frontend Engineer,Remote,48722,79714,2025-11-06
+39,2,Frontend Developer,Hamburg,46135,74952,2025-11-15
+40,2,React Frontend Developer,Frankfurt,47989,78977,2025-10-11
+41,2,Frontend Developer,Remote,53610,77222,2025-09-06
+42,2,React Frontend Developer,Hamburg,48099,78383,2025-09-10
+43,2,Frontend Developer,Hamburg,52590,77119,2025-09-23
+44,2,React Frontend Developer,Hamburg,51297,78934,2025-10-30
+45,2,React Frontend Developer,London,50683,83122,2025-09-15
+46,2,Frontend Engineer,Berlin,48671,76540,2025-10-01
+47,2,React Frontend Developer,Berlin,51232,86208,2025-10-11
+48,2,Frontend Developer,Hamburg,47722,81611,2025-09-10
+49,2,Frontend Developer,Berlin,52404,82316,2025-11-22
+50,2,Frontend Developer,Frankfurt,47502,83519,2025-10-24
+51,2,React Frontend Developer,Amsterdam,48576,80797,2025-10-30
+52,2,Frontend Engineer,London,47052,80224,2025-10-18
+53,2,Frontend Engineer,Amsterdam,54207,84118,2025-10-22
+54,2,React Frontend Developer,Amsterdam,46922,82071,2025-11-01
+55,2,React Frontend Developer,Remote,53175,81782,2025-11-05
+56,2,Frontend Developer,Berlin,54833,86626,2025-11-14
+57,2,Frontend Engineer,Berlin,48706,75121,2025-11-25
+58,2,Frontend Engineer,Amsterdam,54638,78318,2025-10-19
+59,2,Frontend Developer,Frankfurt,51114,81788,2025-09-24
+60,2,Frontend Developer,Frankfurt,50871,86283,2025-10-07
+61,3,Full-Stack Developer,Amsterdam,65020,95773,2025-09-03
+62,3,Full-Stack Developer,Frankfurt,60821,91355,2025-10-27
+63,3,Full-Stack Engineer,Hamburg,62132,84645,2025-11-27
+64,3,Full-Stack Engineer,Munich,64360,95352,2025-11-27
+65,3,Full-Stack Developer,London,59425,81027,2025-09-17
+66,3,Full-Stack Developer,Berlin,57572,84544,2025-10-05
+67,3,Full-Stack Developer,Remote,56930,86829,2025-09-13
+68,3,Full-Stack Engineer,Remote,58312,85881,2025-10-22
+69,3,Full-Stack Engineer,Berlin,59531,89901,2025-10-07
+70,3,Full-Stack Developer,Remote,56852,84261,2025-11-07
+71,3,Full-Stack Engineer,Amsterdam,61147,97553,2025-10-24
+72,3,Full-Stack Engineer,Remote,57766,89781,2025-09-11
+73,3,Full-Stack Developer,Amsterdam,54711,92345,2025-10-07
+74,3,Full-Stack Developer,London,64472,93113,2025-11-04
+75,3,Full-Stack Developer,Frankfurt,62900,93182,2025-09-07
+76,3,Full-Stack Engineer,London,65561,84621,2025-11-10
+77,3,Full-Stack Engineer,Munich,61563,89013,2025-09-11
+78,3,Full-Stack Engineer,London,62283,92404,2025-11-09
+79,3,Full-Stack Engineer,Remote,62387,81868,2025-09-14
+80,3,Full-Stack Engineer,Amsterdam,63750,81061,2025-11-29
+81,3,Full-Stack Developer,Frankfurt,56291,94993,2025-09-13
+82,3,Full-Stack Engineer,Frankfurt,64172,96982,2025-09-22
+83,3,Full-Stack Developer,Hamburg,55279,94257,2025-11-23
+84,3,Full-Stack Engineer,Frankfurt,56843,91031,2025-11-08
+85,3,Full-Stack Engineer,Frankfurt,63807,88031,2025-09-01
+86,3,Full-Stack Developer,Hamburg,63998,87306,2025-10-01
+87,3,Full-Stack Engineer,Munich,55355,98829,2025-10-12
+88,3,Full-Stack Engineer,Amsterdam,64935,94106,2025-11-28
+89,3,Full-Stack Engineer,Remote,56280,89386,2025-10-02
+90,3,Full-Stack Developer,Hamburg,61167,94442,2025-10-05
+91,4,Product Data Analyst,Remote,43139,70318,2025-10-01
+92,4,Junior Data Analyst,London,49127,81918,2025-11-28
+93,4,Junior Data Analyst,Hamburg,45636,78866,2025-10-09
+94,4,Product Data Analyst,London,41514,80838,2025-11-06
+95,4,Product Data Analyst,Berlin,47435,71638,2025-11-01
+96,4,Data Analyst,Frankfurt,44675,69021,2025-10-10
+97,4,Product Data Analyst,Amsterdam,49079,77438,2025-10-26
+98,4,Data Analyst,Amsterdam,45801,68401,2025-11-11
+99,4,Junior Data Analyst,Hamburg,47664,74387,2025-10-09
+100,4,Data Analyst,Amsterdam,42078,78179,2025-09-11
+101,4,Product Data Analyst,Remote,45080,78994,2025-09-19
+102,4,Junior Data Analyst,Berlin,48184,68974,2025-11-07
+103,4,Product Data Analyst,Munich,46118,79995,2025-10-30
+104,4,Product Data Analyst,Remote,42154,76241,2025-10-01
+105,4,Product Data Analyst,Remote,44962,72762,2025-11-10
+106,4,Junior Data Analyst,Remote,46982,78918,2025-10-20
+107,4,Data Analyst,Berlin,49412,79370,2025-09-18
+108,4,Data Analyst,Remote,44593,82203,2025-09-12
+109,4,Junior Data Analyst,London,44513,68214,2025-11-14
+110,4,Data Analyst,Berlin,43361,81531,2025-11-03
+111,4,Data Analyst,Berlin,43255,68341,2025-11-09
+112,4,Product Data Analyst,Frankfurt,46852,80176,2025-11-23
+113,4,Junior Data Analyst,Remote,42682,67923,2025-09-09
+114,4,Junior Data Analyst,Frankfurt,47194,78701,2025-11-24
+115,4,Junior Data Analyst,Remote,46261,73309,2025-10-08
+116,4,Junior Data Analyst,Remote,49406,79663,2025-09-24
+117,4,Product Data Analyst,Hamburg,41301,70105,2025-09-23
+118,4,Product Data Analyst,Munich,44230,70657,2025-10-29
+119,4,Product Data Analyst,Remote,45462,75273,2025-11-14
+120,4,Product Data Analyst,Munich,42529,70257,2025-11-15
+121,5,BI Engineer,Frankfurt,53146,79869,2025-11-29
+122,5,BI Engineer,Frankfurt,52222,87879,2025-09-27
+123,5,Analytics Engineer,Berlin,51450,84609,2025-10-23
+124,5,BI Engineer,Berlin,54192,83244,2025-11-19
+125,5,BI Developer,Munich,53511,87750,2025-11-26
+126,5,Analytics Engineer,London,53093,75648,2025-11-18
+127,5,Analytics Engineer,Amsterdam,50232,74367,2025-11-08
+128,5,BI Developer,Remote,53922,75333,2025-11-06
+129,5,Analytics Engineer,Munich,53281,87828,2025-09-06
+130,5,BI Engineer,Amsterdam,56715,85297,2025-11-12
+131,5,Analytics Engineer,Amsterdam,47011,80965,2025-10-21
+132,5,Analytics Engineer,Frankfurt,49006,78933,2025-09-04
+133,5,BI Developer,Berlin,54352,86566,2025-11-19
+134,5,BI Developer,Berlin,56531,80566,2025-11-16
+135,5,BI Developer,London,56614,87621,2025-11-26
+136,5,Analytics Engineer,Hamburg,55883,76732,2025-11-07
+137,5,BI Engineer,Amsterdam,53212,80955,2025-09-24
+138,5,BI Engineer,Amsterdam,54479,84367,2025-09-22
+139,5,BI Developer,Munich,54346,82102,2025-09-08
+140,5,Analytics Engineer,Munich,53655,74054,2025-11-10
+141,5,BI Engineer,London,55412,82782,2025-09-05
+142,5,BI Developer,Remote,54177,76186,2025-09-09
+143,5,Analytics Engineer,Remote,53914,78144,2025-10-18
+144,5,Analytics Engineer,Remote,50440,77027,2025-10-09
+145,5,BI Engineer,London,55763,77281,2025-10-12
+146,5,Analytics Engineer,Amsterdam,53458,83021,2025-10-25
+147,5,Analytics Engineer,Remote,56054,83455,2025-10-26
+148,5,Analytics Engineer,London,50863,83147,2025-11-03
+149,5,BI Engineer,Amsterdam,55623,81358,2025-09-30
+150,5,Analytics Engineer,Frankfurt,47987,79563,2025-09-14
+151,6,Data Platform Engineer,London,64306,89098,2025-09-23
+152,6,Data Engineer,Remote,65171,99405,2025-11-25
+153,6,Data Engineer,Remote,62467,86977,2025-11-05
+154,6,Data Platform Engineer,Munich,58941,88658,2025-11-06
+155,6,Data Engineer,Hamburg,58016,101277,2025-11-05
+156,6,Data Platform Engineer,Remote,56775,96526,2025-10-21
+157,6,Data Engineer,Frankfurt,64477,101593,2025-11-30
+158,6,Data Engineer,Hamburg,54787,94841,2025-11-26
+159,6,Data Platform Engineer,Remote,62833,92247,2025-09-18
+160,6,Data Platform Engineer,Munich,55795,88727,2025-11-15
+161,6,Data Engineer,Munich,60946,102908,2025-10-01
+162,6,Data Platform Engineer,London,61423,92320,2025-09-22
+163,6,Data Platform Engineer,Remote,62395,90889,2025-09-28
+164,6,Data Platform Engineer,Hamburg,58805,101218,2025-09-18
+165,6,Data Engineer,Amsterdam,62241,88417,2025-09-22
+166,6,Data Platform Engineer,Frankfurt,62967,94132,2025-11-11
+167,6,Data Engineer,Berlin,57548,99973,2025-10-25
+168,6,Data Platform Engineer,Frankfurt,62024,103196,2025-11-11
+169,6,Data Platform Engineer,London,65519,99035,2025-11-22
+170,6,Data Platform Engineer,Hamburg,64590,99392,2025-09-09
+171,6,Data Engineer,London,65391,90401,2025-11-19
+172,6,Data Platform Engineer,Hamburg,65078,92085,2025-11-19
+173,6,Data Platform Engineer,London,61249,93705,2025-09-22
+174,6,Data Platform Engineer,Berlin,62956,91267,2025-10-11
+175,6,Data Platform Engineer,Berlin,54670,90496,2025-10-06
+176,6,Data Platform Engineer,Munich,57590,86447,2025-11-11
+177,6,Data Engineer,Hamburg,57442,87272,2025-10-13
+178,6,Data Platform Engineer,Hamburg,54811,93679,2025-09-18
+179,6,Data Platform Engineer,Munich,65006,87935,2025-10-24
+180,6,Data Platform Engineer,Munich,64594,97501,2025-11-10
+181,7,Machine Learning Engineer,Amsterdam,68524,117917,2025-09-11
+182,7,Machine Learning Engineer,Remote,64705,110119,2025-10-18
+183,7,Machine Learning Engineer,Amsterdam,66719,112339,2025-11-03
+184,7,ML Engineer,London,69594,108477,2025-09-13
+185,7,ML Engineer,Amsterdam,61460,109477,2025-10-23
+186,7,Machine Learning Engineer,Remote,69042,108353,2025-11-17
+187,7,Machine Learning Engineer,Remote,63051,104434,2025-10-11
+188,7,Machine Learning Engineer,Berlin,71065,102557,2025-10-19
+189,7,Machine Learning Engineer,Hamburg,58705,106811,2025-11-23
+190,7,ML Engineer,Munich,67200,115303,2025-09-20
+191,7,Machine Learning Engineer,Remote,58529,104109,2025-10-15
+192,7,Machine Learning Engineer,Berlin,67923,115299,2025-10-25
+193,7,ML Engineer,Amsterdam,62996,105973,2025-10-30
+194,7,Machine Learning Engineer,Frankfurt,70402,104397,2025-10-23
+195,7,ML Engineer,Remote,65260,113394,2025-10-17
+196,7,ML Engineer,Remote,60524,104639,2025-10-25
+197,7,Applied ML Engineer,Amsterdam,66341,116963,2025-10-05
+198,7,ML Engineer,Munich,58724,111264,2025-11-22
+199,7,Applied ML Engineer,Frankfurt,62843,107643,2025-09-21
+200,7,Applied ML Engineer,Frankfurt,70827,105798,2025-10-11
+201,7,Applied ML Engineer,Amsterdam,60109,104502,2025-10-01
+202,7,Applied ML Engineer,Remote,67737,99684,2025-11-20
+203,7,ML Engineer,Frankfurt,64514,108937,2025-11-11
+204,7,Applied ML Engineer,Munich,65603,107010,2025-09-11
+205,7,ML Engineer,Hamburg,64615,111076,2025-10-30
+206,7,ML Engineer,Munich,65126,113581,2025-11-23
+207,7,ML Engineer,Hamburg,65728,113620,2025-11-01
+208,7,Applied ML Engineer,Remote,70306,116644,2025-10-12
+209,7,Machine Learning Engineer,London,69774,109016,2025-09-25
+210,7,Applied ML Engineer,Berlin,70398,120436,2025-09-17
+211,8,Machine Learning Platform Engineer,Remote,70684,105690,2025-11-26
+212,8,Machine Learning Platform Engineer,Amsterdam,67398,112485,2025-11-22
+213,8,MLOps Engineer,Berlin,65709,126439,2025-09-03
+214,8,Machine Learning Platform Engineer,Berlin,73035,110826,2025-11-06
+215,8,Machine Learning Platform Engineer,Frankfurt,66496,113550,2025-10-09
+216,8,MLOps Engineer,Munich,72430,110216,2025-11-28
+217,8,Machine Learning Platform Engineer,Berlin,74559,109462,2025-09-01
+218,8,Machine Learning Platform Engineer,London,68641,114890,2025-10-05
+219,8,Machine Learning Platform Engineer,Hamburg,76183,119873,2025-09-17
+220,8,Machine Learning Platform Engineer,Munich,73089,107264,2025-09-20
+221,8,MLOps Engineer,Remote,64909,110485,2025-09-08
+222,8,MLOps Engineer,Amsterdam,63832,118992,2025-11-22
+223,8,Machine Learning Platform Engineer,Berlin,74756,120977,2025-10-14
+224,8,Machine Learning Platform Engineer,Hamburg,71664,121846,2025-10-06
+225,8,MLOps Engineer,Munich,69009,121947,2025-11-12
+226,8,Machine Learning Platform Engineer,Berlin,66238,120661,2025-11-06
+227,8,MLOps Engineer,Munich,63738,112413,2025-09-05
+228,8,MLOps Engineer,London,75459,121814,2025-11-14
+229,8,MLOps Engineer,Remote,67216,105377,2025-09-15
+230,8,MLOps Engineer,Berlin,71593,105266,2025-09-13
+231,8,MLOps Engineer,Frankfurt,72935,121024,2025-11-15
+232,8,Machine Learning Platform Engineer,Munich,68756,124473,2025-09-29
+233,8,MLOps Engineer,Amsterdam,67034,110117,2025-09-09
+234,8,MLOps Engineer,Remote,67270,111510,2025-09-26
+235,8,MLOps Engineer,Munich,66509,111695,2025-09-20
+236,8,Machine Learning Platform Engineer,Berlin,72325,110390,2025-09-20
+237,8,Machine Learning Platform Engineer,Frankfurt,72354,124249,2025-10-15
+238,8,MLOps Engineer,Amsterdam,75344,123356,2025-09-28
+239,8,MLOps Engineer,Berlin,69201,117600,2025-10-06
+240,8,Machine Learning Platform Engineer,Hamburg,71182,126252,2025-10-03
+241,9,Growth Analyst,Munich,52600,91258,2025-11-27
+242,9,Product Analyst,Berlin,57041,93839,2025-11-21
+243,9,Product Analyst,Munich,50927,85270,2025-11-08
+244,9,Product Analyst,Hamburg,53467,95565,2025-11-20
+245,9,Growth Analyst,Amsterdam,55100,90168,2025-11-22
+246,9,Growth Analyst,Frankfurt,53524,84049,2025-11-13
+247,9,Product Analyst,Munich,53215,96432,2025-09-25
+248,9,Product Analyst,Frankfurt,50995,88950,2025-10-24
+249,9,Product Analyst,Berlin,50477,88064,2025-10-04
+250,9,Growth Analyst,Hamburg,56738,84577,2025-11-26
+251,9,Growth Analyst,Berlin,59686,89035,2025-11-15
+252,9,Growth Analyst,Hamburg,52678,87048,2025-09-05
+253,9,Product Analyst,Amsterdam,53844,94217,2025-11-14
+254,9,Growth Analyst,Berlin,56624,89959,2025-11-01
+255,9,Product Analyst,Hamburg,49575,82850,2025-11-02
+256,9,Growth Analyst,Amsterdam,53907,83045,2025-10-11
+257,9,Product Analyst,Amsterdam,51997,91994,2025-10-06
+258,9,Growth Analyst,Munich,53877,88991,2025-10-02
+259,9,Growth Analyst,Munich,58009,82831,2025-10-15
+260,9,Growth Analyst,Hamburg,56377,96353,2025-11-08
+261,9,Growth Analyst,Remote,59005,97717,2025-11-12
+262,9,Product Analyst,Munich,53689,90680,2025-09-15
+263,9,Product Analyst,Amsterdam,54320,97272,2025-11-06
+264,9,Growth Analyst,Munich,59873,90802,2025-11-06
+265,9,Product Analyst,Frankfurt,50719,97878,2025-11-16
+266,9,Growth Analyst,London,51432,93521,2025-11-11
+267,9,Product Analyst,Amsterdam,60295,89466,2025-10-14
+268,9,Product Analyst,Hamburg,56678,88731,2025-11-23
+269,9,Product Analyst,Munich,51787,87569,2025-11-20
+270,9,Product Analyst,Remote,57484,83223,2025-09-29
+271,10,Test Automation Engineer,London,45269,75372,2025-11-14
+272,10,Test Automation Engineer,Munich,44407,68654,2025-10-05
+273,10,QA Automation Engineer,Hamburg,42226,78492,2025-11-20
+274,10,Test Automation Engineer,Remote,45948,78151,2025-10-02
+275,10,QA Automation Engineer,Amsterdam,42565,72868,2025-11-04
+276,10,QA Automation Engineer,Remote,46220,80507,2025-10-28
+277,10,QA Automation Engineer,Amsterdam,41076,79441,2025-11-07
+278,10,QA Automation Engineer,Amsterdam,45506,72622,2025-09-01
+279,10,QA Automation Engineer,Munich,47592,75353,2025-11-02
+280,10,Test Automation Engineer,Munich,49227,77575,2025-10-28
+281,10,Test Automation Engineer,Frankfurt,47267,77550,2025-10-30
+282,10,Test Automation Engineer,Berlin,42574,68568,2025-11-22
+283,10,Test Automation Engineer,Remote,47246,75093,2025-10-22
+284,10,Test Automation Engineer,Remote,47319,73278,2025-11-28
+285,10,Test Automation Engineer,London,47047,80681,2025-10-23
+286,10,Test Automation Engineer,Amsterdam,48168,71519,2025-09-01
+287,10,Test Automation Engineer,Hamburg,49224,81670,2025-10-26
+288,10,QA Automation Engineer,Frankfurt,40937,68245,2025-11-10
+289,10,Test Automation Engineer,London,40608,79102,2025-11-14
+290,10,Test Automation Engineer,Hamburg,41046,70161,2025-09-14
+291,10,QA Automation Engineer,London,48555,72517,2025-09-07
+292,10,Test Automation Engineer,Munich,45217,74926,2025-09-12
+293,10,Test Automation Engineer,Munich,49289,67564,2025-10-04
+294,10,Test Automation Engineer,Remote,47318,69442,2025-09-17
+295,10,Test Automation Engineer,Amsterdam,40561,80939,2025-11-12
+296,10,QA Automation Engineer,London,43059,75263,2025-11-30
+297,10,Test Automation Engineer,Remote,41975,81169,2025-09-13
+298,10,Test Automation Engineer,Berlin,43799,72726,2025-09-08
+299,10,Test Automation Engineer,London,45088,68315,2025-10-11
+300,10,Test Automation Engineer,Frankfurt,47465,80994,2025-10-23
+301,11,Cloud Engineer,Berlin,66309,96123,2025-09-21
+302,11,Cloud Engineer,Berlin,63986,110856,2025-09-15
+303,11,Cloud Platform Engineer,Berlin,71198,110104,2025-10-10
+304,11,Cloud Platform Engineer,London,69147,100832,2025-09-04
+305,11,Cloud Engineer,Hamburg,67891,96035,2025-10-17
+306,11,Cloud Engineer,Amsterdam,63718,110381,2025-10-31
+307,11,Cloud Platform Engineer,Berlin,69472,114077,2025-09-10
+308,11,Cloud Platform Engineer,Amsterdam,62409,109477,2025-11-20
+309,11,Cloud Engineer,London,58874,111662,2025-11-17
+310,11,Cloud Engineer,Frankfurt,61784,114442,2025-11-20
+311,11,Cloud Engineer,Remote,62432,106502,2025-10-06
+312,11,Cloud Engineer,Hamburg,67513,113789,2025-10-22
+313,11,Cloud Platform Engineer,Amsterdam,66855,110848,2025-10-21
+314,11,Cloud Platform Engineer,Munich,61947,110680,2025-10-14
+315,11,Cloud Platform Engineer,Hamburg,65128,107263,2025-09-18
+316,11,Cloud Platform Engineer,Hamburg,63225,107744,2025-10-18
+317,11,Cloud Platform Engineer,Amsterdam,60941,102272,2025-11-18
+318,11,Cloud Engineer,Frankfurt,60281,110598,2025-09-27
+319,11,Cloud Engineer,London,68678,107697,2025-09-21
+320,11,Cloud Engineer,Hamburg,65736,105256,2025-09-02
+321,11,Cloud Platform Engineer,London,61950,99556,2025-09-19
+322,11,Cloud Engineer,Berlin,58702,105575,2025-10-03
+323,11,Cloud Platform Engineer,Frankfurt,66529,109204,2025-11-01
+324,11,Cloud Engineer,Frankfurt,67802,114937,2025-09-29
+325,11,Cloud Platform Engineer,Berlin,66565,94570,2025-10-20
+326,11,Cloud Engineer,Hamburg,64347,100171,2025-11-30
+327,11,Cloud Engineer,Amsterdam,70109,110965,2025-09-26
+328,11,Cloud Platform Engineer,Hamburg,62045,104376,2025-11-27
+329,11,Cloud Engineer,London,65973,107396,2025-11-23
+330,11,Cloud Platform Engineer,Frankfurt,68228,102919,2025-10-10

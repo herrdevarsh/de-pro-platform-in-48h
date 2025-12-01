@@ -1,0 +1,29 @@
+skill_id,name,category,difficulty_hours
+1,Python,programming,40
+2,Java,programming,40
+3,JavaScript,programming,35
+4,TypeScript,programming,35
+5,SQL,data,30
+6,NoSQL Databases,data,35
+7,Statistics,data,30
+8,Machine Learning,data,60
+9,Deep Learning,data,80
+10,Data Visualization,data,30
+11,Power BI / Tableau,data,35
+12,Cloud Basics,devops,40
+13,AWS,devops,50
+14,Azure,devops,50
+15,Docker,devops,30
+16,Kubernetes,devops,60
+17,Linux,devops,30
+18,Git,tooling,10
+19,CI/CD,devops,35
+20,Testing / Unit Testing,tooling,25
+21,Communication,soft,10
+22,Stakeholder Management,soft,15
+23,Problem Solving,soft,15
+24,HTML/CSS,programming,25
+25,Pandas,data,25
+26,Apache Spark,data,50
+27,REST APIs,programming,30
+28,Apache Kafka,devops,50
